@@ -41,10 +41,4 @@ Each athlete records BMI and VO2 max data throughout training. These metrics are
 
 This tool processes BMI and VO2 max values for all athletes and provides a structured way to evaluate their fitness progression during training camp.
 
-If you'd like, I can also add:
 
-✅ Installation instructions
-✅ How to run your Python code
-✅ Example output
-✅ Screenshot section
-Just let me know!
